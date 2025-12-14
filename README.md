@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I’m Kakarot 👋</h1>
+<h1 align="center">Hi there, I’m Kakarot (Kurt Ian Rumbaua) 👋</h1>
 <h3 align="center">Computer Science student at Mapúa University (Philippines)</h3>
 
 ---
