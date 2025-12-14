@@ -2,6 +2,9 @@
 
 <h3 align="left">🌱 About Me</h3>
 
+<table border="0">
+<tr>
+<td valign="top">
 <div align="left">
 
 - 💼 Aspiring fullstack web developer
@@ -11,6 +14,12 @@
 - 🔁 These days I'm trying to be <b>consistent</b> with my craft and chasing <b>growth</b> in <b>everything</b> I do
 
 </div>
+</td>
+<td valign="top" align="center">
+<img src="./assets/coding.gif" width="200" />
+</td>
+</tr>
+</table>
 
 ---
 
