@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurt Ian Rumbaua</h1>
-<h3 align="center">Computer Science student at Mapua University in the Philippines. Working towards becoming a fullstack web developer. I'm spending most of my time building projects and learning Next.js to prepare for graduation and eventually landing a job. My portfolio is still growing, but I'm putting in the work to get there. Outside of programming, I'm into PC hardware and building systems. I've also been getting into audio gear lately—nothing crazy expensive yet since I'm still on a budget, but it's a start. Just exploring what I like and learning as I go.</h3>
+<h3 align="center">Computer Science student at Mapua University in the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurtrumbaua&label=Profile%20views&color=0e75b6&style=flat" alt="kurtrumbaua" /> </p>
 
