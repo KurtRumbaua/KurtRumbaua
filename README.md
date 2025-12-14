@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Kurt 👋</h1>
+
+<img align="right" src="./assets/guy-coding.gif" width="450" />
+
 <h3 align="left">🌱 About Me</h3>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr style="border: none;">
-<td valign="center" style="border: none;">
-<div align="left">
 
 - 💼 Aspiring fullstack web developer
 - 🎓 Final year CS student at Mapúa University
@@ -11,13 +10,7 @@
 - 🎮 Outside coding I like building PC hardware and lately getting into audiophile stuff
 - 🔁 These days I'm trying to be <b>consistent</b> with my craft and chasing <b>growth</b> in <b>everything</b> I do
 
-</div>
-</td>
-<td valign="center" align="center" style="border: none;">
-<img src="./assets/guy-coding.gif" width="400" />
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
