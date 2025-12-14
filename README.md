@@ -34,7 +34,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurtRumbaua&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirrumbaua&theme=github_dark" />
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
