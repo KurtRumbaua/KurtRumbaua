@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I’m Kakarot 👋</h1>
-<h3 align="center">Computer Science student at Mapúa University in the Philippines</h3>
+<h3 align="center">Computer Science student at Mapúa University (Philippines)</h3>
 
 ---
 
@@ -7,10 +7,13 @@
 
 <div align="center">
 
-- 💻 Aspiring fullstack developer, currently mastering Next.js
-- 🎓 Final year CS student, getting my degree soon
-- 🖥️ Outside programming, I like building PC hardware
-- 🎧 Lately I'm into audiophile stuff (still on a budget though)
+💻 Aspiring fullstack developer, currently mastering Next.js
+
+🎓 Final year CS student, getting my degree soon
+
+🖥️ Outside programming, I like building PC hardware
+
+🎧 Lately I'm into audiophile stuff (still on a budget though)
 
 </div>
 
