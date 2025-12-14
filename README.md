@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="center">💻 Languages i use</h3>
+<h3 align="center">💻 Languages I use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,py&perline=7" />
@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center">🛠️ Frameworks & tools i use</h3>
+<h3 align="center">🛠️ Frameworks & tools I use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,nodejs,git,vscode,postman,vercel,mongodb,mysql,npm&perline=6" />
