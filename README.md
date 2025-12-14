@@ -5,12 +5,14 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">
-💻 Aspiring fullstack developer, currently mastering Next.js<br>
-🎓 Final year CS student, getting my degree soon<br>
-🖥️ Outside programming, I like building PC hardware<br>
-🎧 Lately I'm into audiophile stuff (still on a budget though)
-</p>
+<div align="center">
+
+- 💻 Aspiring fullstack developer, currently mastering Next.js
+- 🎓 Final year CS student, getting my degree soon
+- 🖥️ Outside programming, I like building PC hardware
+- 🎧 Lately I'm into audiophile stuff (still on a budget though)
+
+</div>
 
 ---
 
