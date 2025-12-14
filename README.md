@@ -7,7 +7,7 @@
 - 💼 Aspiring fullstack web developer
 - 🎓 Final year CS student at Mapúa University
 - 📚 Currently mastering Next.js & React
-- 🎮 Outside coding I like building PC hardware and lately getting into audiophile
+- 🎮 Outside coding I like building PC hardware and lately getting into audiophile stuff
 - 🔁 These days I'm trying to be <b>consistent</b> with my craft and chasing <b>growth</b> in <b>everything</b> I do
 
 </div>
