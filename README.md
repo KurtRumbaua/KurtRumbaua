@@ -1,19 +1,14 @@
 <h1 align="center">Hi there, I'm Kakarot 👋</h1>
-<h3 align="center">Computer Science student at Mapúa University in the Philippines</h3>
 
----
-
-<h3 align="center">📝 About Me</h3>
+<h3 align="left">🌱 About Me</h3>
 
 <div align="left">
 
-- 💻 Aspiring fullstack developer, currently mastering Next.js
-
-- 🎓 Final year CS student, getting my degree soon
-
-- 🖥️ Outside programming, I like building PC hardware
-
-- 🎧 Lately I'm into audiophile stuff (still on a budget though)
+- 💼 Aspiring fullstack developer
+- 🎓 Final year CS student at Mapúa University
+- 📚 Currently mastering Next.js & React
+- 🎮 Outside coding I like building PC hardware and lately getting into audiophile
+- 🔁 These days I'm trying to be <b>consistent</b> with my craft and chasing <b>growth</b> in <b>everything</b> I do
 
 </div>
 
@@ -43,4 +38,10 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurtRumbaua&theme=github_dark" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KurtRumbaua&theme=dark" />
+  </a>
 </p>
