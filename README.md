@@ -26,7 +26,7 @@
 <h3 align="center">🛠️ Frameworks & tools I use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,nodejs,git,vscode,postman,vercel,mongodb,mysql,npm,vite,github&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,nodejs,git,vscode,postman,vercel,mongodb,mysql,npm,vite,spring&perline=7" />
   </a>
 </p>
 
